@@ -1,4 +1,4 @@
-# Frontend Masters Intro to Gatsby with Jason Lengstorf
+# Frontend Masters Intro to Gatsby with Jason Lengstorf -> (Awesome teacher!)
 
 This is the project we'll build together to introduce you to Gatsby!
 
